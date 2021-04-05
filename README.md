@@ -1,6 +1,9 @@
 # driverAI
 A Machine Learning project to teach the agent how to drive and race.
 
+![image](https://user-images.githubusercontent.com/7780770/113525830-8806b380-958d-11eb-9f6c-b683f8db6b52.png)
+
+
 ## Running
 
 The project is developed using the Unity MLAgents package, so there are 3 modes that you can run it. To change the mode, `Inspect` the Agent, and open the `Behaviour Parameters` group, then you will be able to select one.
@@ -31,3 +34,4 @@ You can add more agents if you want by adding the `Car` prefab, or copying the `
 You can also change the environment and the race, but be careful about the checkpoints, the spawnpoint, and the walls.
 Each Agent has a `RayPerception3DSensor`, that can will detect the checkpoints as a wall if you don't be careful, and it will need a `BoxCollider` at the road sides to work.
 The Walls also need to be tagged as `Wall`.
+
