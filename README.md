@@ -1,4 +1,4 @@
-# driverAI
+# driver-AI
 A Machine Learning project to teach the agent how to drive and race.
 
 ![image](https://user-images.githubusercontent.com/7780770/113525830-8806b380-958d-11eb-9f6c-b683f8db6b52.png)
