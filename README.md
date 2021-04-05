@@ -1,7 +1,9 @@
 # driver-AI
 A Machine Learning project to teach the agent how to drive and race.
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/7780770/113526464-8b4f6e80-9590-11eb-9b0d-9e7a220bd3a7.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7780770/113526464-8b4f6e80-9590-11eb-9b0d-9e7a220bd3a7.gif">
+</p>
 
 ## Running
 
